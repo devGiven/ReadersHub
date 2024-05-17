@@ -1,0 +1,124 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ReadersHub" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="register">
+        <item name="android:textSize">19sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="name">
+        <item name="android:textSize">19sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="surname">
+        <item name="android:textSize">19sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="username">
+        <item name="android:textSize">19sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="password">
+        <item name="android:textSize">19sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="confirm_pas">
+        <item name="android:textSize">19sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="already_hav">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#0073C6</item>
+    </style>
+
+    <!-- Sign in -->
+    <style name="log_in">
+        <item name="android:textSize">19sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="LI_username">
+        <item name="android:textSize">19sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="LI_password">
+        <item name="android:textSize">19sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="forgot_pass">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#0073C6</item>
+    </style>
+
+    <!-- Main -->
+    <style name="hello_tshia">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="no_categori">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <!-- styles.xml -->
+    <style name="reset_passw">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="otp">
+        <item name="android:textSize">19sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="create_a_ca">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <!-- styles.xml -->
+    <style name="category_na">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="short_descr">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="book_limit">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="save">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="set_a_goal">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="you_are_abl">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="low_level_g">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="medium_leve">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+    <style name="high_level_">
+        <item name="android:textSize">10sp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+
+
+</resources>

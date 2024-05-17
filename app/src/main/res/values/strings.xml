@@ -1,0 +1,54 @@
+<resources>
+
+    <!-- Register -->
+    <string name="app_name">ReadersHub</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_pas">Confirm Password</string>
+    <string name="already_hav">Already have an Account?</string>
+    <string name="sign_up">Sign Up</string>
+
+    <!-- Sign in -->
+    <string name="log_in">Log in</string>
+    <string name="LI_username">Username</string>
+    <string name="LI_password">Password</string>
+    <string name="forgot_pass">forgot password?</string>
+
+    <!-- Main -->
+    <string name="hello_tshia">Hello Tshiamo Monageng</string>
+    <string name="no_categori">no categories of your collection
+        are available try creating one</string>
+
+    <!-- Forgot Password -->
+    <string name="reset_passw">Reset\n     Password</string>
+    <string name="otp">OTP</string>
+    <string name="reset">Reset</string>
+
+
+    <string name="create_a_ca">Create a Category</string>
+    <string name="category_na">Category Name</string>
+    <string name="short_descr">Short Description</string>
+    <string name="book_limit">Book limit</string>
+    <string name="save">Save</string>
+
+
+    <string name="set_a_goal">Set a Goal</string>
+    <string name="you_are_abl">
+        You are able to set a goal for the number of books that you want to own in each category.
+    </string>
+    <string name="medium_leve">
+        Medium-level goal-goal that can be completed within a Medium period of time  such as Creating a favourite books list
+    </string>
+    <string name="select">Select</string>
+    <string name="low_level_g">
+        Low-level goal-goal that can be completed within a short period of time  such as Creating a favourite books list
+    </string>
+    <string name="high_level_">
+        High-level goal -goal that can be completed within a long period of time such as reading a total of 50 books.
+    </string>
+
+</resources>
+

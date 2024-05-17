@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="5dp"
+    tools:context=".SetGoal">
+
+    <ImageButton
+        android:id="@+id/btnBackRegister2"
+        android:layout_width="49dp"
+        android:layout_height="38dp"
+        android:background="@color/white"
+        app:srcCompat="@drawable/back"
+        tools:layout_editor_absoluteX="32dp"
+        tools:layout_editor_absoluteY="66dp" />
+
+    <!-- Set a Goal -->
+    <TextView
+        android:id="@+id/set_a_goal"
+        android:layout_width="185dp"
+        android:layout_height="39dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:fontFamily="sans-serif-black"
+        android:gravity="top"
+        android:text="@string/set_a_goal"
+        android:textAppearance="@style/set_a_goal"
+        tools:layout_editor_absoluteX="25dp"
+        tools:layout_editor_absoluteY="104dp" />
+
+
+    <TextView
+        android:id="@+id/you_are_abl"
+        android:layout_width="306dp"
+        android:layout_height="36dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:gravity="top"
+        android:text="@string/you_are_abl"
+        android:textAppearance="@style/you_are_abl"
+        tools:layout_editor_absoluteX="52dp"
+        tools:layout_editor_absoluteY="143dp" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="336dp"
+        android:layout_height="30dp"
+        android:background="#ECECEC"
+        android:paddingLeft="15dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:text="Low-Level Goal"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="229dp" />
+
+    <TextView
+        android:id="@+id/low_level_g"
+        android:layout_width="283dp"
+        android:layout_height="50dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:gravity="top"
+        android:text="@string/low_level_g"
+        android:textAppearance="@style/low_level_g"
+        tools:layout_editor_absoluteX="112dp"
+        tools:layout_editor_absoluteY="259dp" />
+
+    <TextView
+        android:id="@+id/medium_leve"
+        android:layout_width="276dp"
+        android:layout_height="54dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:gravity="top"
+        android:text="@string/medium_leve"
+        android:textAppearance="@style/medium_leve"
+        tools:layout_editor_absoluteX="117dp"
+        tools:layout_editor_absoluteY="403dp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="336dp"
+        android:layout_height="30dp"
+        android:background="#ECECEC"
+        android:paddingLeft="15dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:text="High-Level Goal"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="524dp" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="336dp"
+        android:layout_height="30dp"
+        android:background="#ECECEC"
+        android:paddingLeft="15dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:text="Medium-Level Goal"
+        tools:layout_editor_absoluteX="30dp"
+        tools:layout_editor_absoluteY="373dp" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="87dp"
+        android:layout_height="36dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="276dp"
+        tools:layout_editor_absoluteY="337dp" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="87dp"
+        android:layout_height="36dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="276dp"
+        tools:layout_editor_absoluteY="488dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="87dp"
+        android:layout_height="36dp"
+        android:text="Button"
+        tools:layout_editor_absoluteX="276dp"
+        tools:layout_editor_absoluteY="627dp" />
+
+    <TextView
+        android:id="@+id/high_level_"
+        android:layout_width="268dp"
+        android:layout_height="58dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:gravity="top"
+        android:text="@string/high_level_"
+        android:textAppearance="@style/high_level_"
+        tools:layout_editor_absoluteX="117dp"
+        tools:layout_editor_absoluteY="554dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
